@@ -1,3 +1,8 @@
+# 21930064 Jo Joon-Hee
+# Opensource Midterm Project
+
+============================================
+
 # 2D Character Controller
 Here is a free to use Character Controller for 2D platformer games in Unity.
 
